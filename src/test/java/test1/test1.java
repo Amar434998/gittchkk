@@ -6,5 +6,9 @@ public class test1{
 		System.out.println("amar");
 	}
 	
+	public void t2() {
+		System.out.println("uar");
+	}
+	
 	
 }
